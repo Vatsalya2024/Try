@@ -1,0 +1,15 @@
+/Users/vatsalyasinghbaghel/Desktop/Vatsalya_Coding/Csharp/CalculatorApp/CalculatorApp/bin/Debug/net6.0/CalculatorApp
+/Users/vatsalyasinghbaghel/Desktop/Vatsalya_Coding/Csharp/CalculatorApp/CalculatorApp/bin/Debug/net6.0/CalculatorApp.deps.json
+/Users/vatsalyasinghbaghel/Desktop/Vatsalya_Coding/Csharp/CalculatorApp/CalculatorApp/bin/Debug/net6.0/CalculatorApp.runtimeconfig.json
+/Users/vatsalyasinghbaghel/Desktop/Vatsalya_Coding/Csharp/CalculatorApp/CalculatorApp/bin/Debug/net6.0/CalculatorApp.dll
+/Users/vatsalyasinghbaghel/Desktop/Vatsalya_Coding/Csharp/CalculatorApp/CalculatorApp/bin/Debug/net6.0/CalculatorApp.pdb
+/Users/vatsalyasinghbaghel/Desktop/Vatsalya_Coding/Csharp/CalculatorApp/CalculatorApp/obj/Debug/net6.0/CalculatorApp.csproj.AssemblyReference.cache
+/Users/vatsalyasinghbaghel/Desktop/Vatsalya_Coding/Csharp/CalculatorApp/CalculatorApp/obj/Debug/net6.0/CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vatsalyasinghbaghel/Desktop/Vatsalya_Coding/Csharp/CalculatorApp/CalculatorApp/obj/Debug/net6.0/CalculatorApp.AssemblyInfoInputs.cache
+/Users/vatsalyasinghbaghel/Desktop/Vatsalya_Coding/Csharp/CalculatorApp/CalculatorApp/obj/Debug/net6.0/CalculatorApp.AssemblyInfo.cs
+/Users/vatsalyasinghbaghel/Desktop/Vatsalya_Coding/Csharp/CalculatorApp/CalculatorApp/obj/Debug/net6.0/CalculatorApp.csproj.CoreCompileInputs.cache
+/Users/vatsalyasinghbaghel/Desktop/Vatsalya_Coding/Csharp/CalculatorApp/CalculatorApp/obj/Debug/net6.0/CalculatorApp.dll
+/Users/vatsalyasinghbaghel/Desktop/Vatsalya_Coding/Csharp/CalculatorApp/CalculatorApp/obj/Debug/net6.0/refint/CalculatorApp.dll
+/Users/vatsalyasinghbaghel/Desktop/Vatsalya_Coding/Csharp/CalculatorApp/CalculatorApp/obj/Debug/net6.0/CalculatorApp.pdb
+/Users/vatsalyasinghbaghel/Desktop/Vatsalya_Coding/Csharp/CalculatorApp/CalculatorApp/obj/Debug/net6.0/CalculatorApp.genruntimeconfig.cache
+/Users/vatsalyasinghbaghel/Desktop/Vatsalya_Coding/Csharp/CalculatorApp/CalculatorApp/obj/Debug/net6.0/ref/CalculatorApp.dll

@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{AB2C6850-E7AF-4D99-B2E2-68B5A2E967C4}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CalculatorApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalculatorApp.Test/UnitTest1.cs">
+    <Files>
+      <File FileName="CalculatorApp/Program.cs" />
+      <File FileName="CalculatorApp/Repositiory/CalculatorRepository.cs" />
+      <File FileName="CalculatorApp/Repositiory/ICalculatorRepository.cs" />
+      <File FileName="CalculatorApp.Test/UnitTest1.cs" Line="19" Column="55" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CalculatorApp" expanded="True">
+            <Node name="CalculatorApp" expanded="True">
+              <Node name="Repositiory" expanded="True" />
+            </Node>
+            <Node name="CalculatorApp.Test" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CalculatorApp" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
